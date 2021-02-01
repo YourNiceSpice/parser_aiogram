@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 import follow_add_proxy
 
-bot = Bot(token = '1043923109:AAG26SjtlMZLd5mmPt78D8Fch7vYnlTCPoM')
+bot = Bot(token = '')
 
 dispatcher = Dispatcher(bot)
 
